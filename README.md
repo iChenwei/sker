@@ -21,15 +21,17 @@
 
 感谢任老师对我们几位ACMer的支持！
 
-感谢[yxc](https://www.acwing.com/user/myspace/index/1/)和他的视频课程，有种相见恨晚的感觉。[AcWing](https://www.acwing.com/about/)是很好的平台，特别是yxc大佬的课程，[基础课](https://www.acwing.com/activity/content/11/)和[进阶课](https://www.acwing.com/activity/content/16/)难度曲线比较平滑，希望大家滋瓷（~~打钱嗷~~）。
+感谢[yxc](https://www.acwing.com/user/myspace/index/1/)和他的视频课程，有种相见恨晚的感觉。[AcWing](https://www.acwing.com/about/)是很好的平台，特别是yxc大佬的课程，[基础课](https://www.acwing.com/activity/content/11/)和[提高课](https://www.acwing.com/activity/content/16/)难度曲线比较平滑，希望大家滋瓷（~~打钱嗷~~）。
 
 ## 其他
+
+#####进阶：
 
 如果您是`OI`或者`ACM`dalao，可以也尝试其他平台：[codeforces](http://codeforces.com/)、[atcoder](https://atcoder.jp/)、[Virtual Judge](https://vjudge.net/)
 
 、[UVA](https://onlinejudge.org/)、[HDUOJ](http://acm.hdu.edu.cn/)、[POJ](http://poj.org/)、[ZOJ](https://zoj.pintia.cn/home)
 
-######联系我：
+#####联系我：
 
 邮箱：willchan1020@gmail.com
 
