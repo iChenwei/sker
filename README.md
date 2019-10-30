@@ -27,13 +27,13 @@
 
 ## 其他
 
-####进阶：
+进阶：
 
 如果您是`OI`或者`ACM`dalao，可以也尝试其他平台：[codeforces](http://codeforces.com/)、[atcoder](https://atcoder.jp/)、[Virtual Judge](https://vjudge.net/)
 
 、[UVA](https://onlinejudge.org/)、[HDUOJ](http://acm.hdu.edu.cn/)、[POJ](http://poj.org/)、[ZOJ](https://zoj.pintia.cn/home)
 
-####发现错误或者有什么意见和建议请联系：
+发现错误或者有什么意见和建议请联系：
 
 邮箱：willchan1020@gmail.com
 
