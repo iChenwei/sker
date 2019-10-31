@@ -1,4 +1,6 @@
 <center><h1>Git & GitHub笔记</h1></center>
+<p align="right">电气信息系 计算机科学与技术17级 陈巍</p>
+
 1. 安装 Git && 申请 GitHub账号，并创建一个仓库repository
 
 2. 本地与GitHub连接
