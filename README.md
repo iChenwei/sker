@@ -37,3 +37,7 @@
 
 邮箱：willchan1020@gmail.com
 
+[科学上网](https://jsqpro.store/auth/register?code=deVWVZE9Yehx)
+
+
+
