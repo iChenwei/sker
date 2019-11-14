@@ -57,3 +57,24 @@ $$
 $$
 ```
 
+`希腊字母`
+
+```latex
+\alpha 小写
+\Alpha 大写加粗
+
+\beta 小写
+\Beta 大写加粗
+
+\gamma 小写
+\Gamma 大写加粗
+
+```
+
+`运算符`
+
+```latex
+\cdot 点乘
+\div ➗
+```
+
