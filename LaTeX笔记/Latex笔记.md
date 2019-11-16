@@ -75,7 +75,12 @@ $$
 
 ```latex
 \cdot 点乘
+
 \div ➗
+
+\lfloor x \rfloor 向下取整 ⌊x⌋
+
+\lceil x \rceil 向下取整 ⌈x⌉
 ```
 
 `空格`
