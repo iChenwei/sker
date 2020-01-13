@@ -80,6 +80,7 @@ n次根号a：
 
 ```latex
 \cdot 点乘
+\times 叉乘
 
 \div ➗
 
