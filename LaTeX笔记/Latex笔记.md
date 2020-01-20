@@ -87,6 +87,9 @@ n次根号a：
 \lfloor x \rfloor 向下取整 ⌊x⌋
 
 \lceil x \rceil 向下取整 ⌈x⌉
+
+\left| \right| 绝对值
+\left\| \right\| 范式
 ```
 
 `空格`
