@@ -100,3 +100,60 @@ n次根号a：
 \qquad 两个m宽度的空格
 ```
 
+`求和符号`
+
+例子:
+
+$\sum_{i=0}^{n}$
+$\sum_{n=0}^{\infty}$
+
+```latex
+\sum_{i=0}^{n}
+\sum_{n=0}^{\infty}
+```
+
+`极限`
+
+例子：
+
+$\lim_{ n \to \infty }$
+
+$\lim_{x \to x_0}$
+
+```latex
+\lim_{ n \to \infty }
+\lim_{x \to x_0}
+```
+
+`积分`
+
+例子：
+
+$\int_{0}^{x}f(t)dt$
+
+```latex
+\int_{0}^{x}f(t)dt
+```
+
+`换行`
+
+```latex
+\\
+\newline
+
+\linebreak
+```
+
+`远小于&远大于`
+
+例子：
+
+$\ll$
+
+$\gg$
+
+```latex
+\ll
+\gg
+```
+
