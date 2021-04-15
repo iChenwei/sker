@@ -87,10 +87,8 @@
 ​		具体更新顺序不确定，根据大家需求和我个人最近的刷题顺序
 
 ## 感谢
+没有内容了
 
-感谢任老师对我们几位ACMer的支持！
-
-感谢[yxc](https://www.acwing.com/user/myspace/index/1/)和他的视频课程，有种相见恨晚的感觉。[AcWing](https://www.acwing.com/about/)是很好的平台，特别是yxc大佬的课程，[基础课](https://www.acwing.com/activity/content/11/)和[提高课](https://www.acwing.com/activity/content/16/)难度曲线比较平滑，希望大家滋瓷（~~打钱嗷~~）。
 
 ## 其他
 
