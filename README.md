@@ -94,11 +94,6 @@
 
 、[UVA](https://onlinejudge.org/)、[HDUOJ](http://acm.hdu.edu.cn/)、[POJ](http://poj.org/)、[ZOJ](https://zoj.pintia.cn/home)
 
-发现错误或者有什么意见和建议请联系：
-
-邮箱：willchan1020@gmail.com
-
-
 
 
 
